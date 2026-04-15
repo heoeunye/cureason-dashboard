@@ -1,0 +1,5413 @@
+{
+  "2026-04": {
+    "네이버": {
+      "1": 44200,
+      "2": 117500,
+      "3": 27900,
+      "4": 50000,
+      "5": 55500,
+      "6": 53500,
+      "7": 52700,
+      "8": 37800,
+      "9": 9900,
+      "10": 20300,
+      "11": 14900,
+      "12": 65100,
+      "14": 9900,
+      "15": 34700
+    },
+    "에이블리": {
+      "1": 9665,
+      "2": 16800,
+      "4": 17500,
+      "5": 21531,
+      "10": 14577,
+      "12": 16200,
+      "14": 30420,
+      "15": 17900
+    },
+    "쿠팡": {
+      "1": 53830,
+      "2": 27920,
+      "6": 9910,
+      "8": 15900,
+      "9": 9910,
+      "10": 19820,
+      "11": 27920,
+      "13": 19820,
+      "14": 19820
+    },
+    "쿠팡(큐리즌 외)": {
+      "1": 84440,
+      "2": 69100,
+      "3": 51400,
+      "4": 25700,
+      "5": 129900,
+      "6": 159100,
+      "7": 98500,
+      "8": 97000,
+      "9": 100300,
+      "10": 23900,
+      "11": 38600,
+      "12": 133300,
+      "13": 118300,
+      "14": 15900
+    },
+    "CJ온스타일": {
+      "4": 12271,
+      "15": 15720
+    },
+    "지그재그": {
+      "12": 11900
+    }
+  },
+  "orders": [
+    {
+      "date": "2026-04-01",
+      "platform": "에이블리",
+      "customer": "김민서",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 9665
+    },
+    {
+      "date": "2026-04-01",
+      "platform": "네이버",
+      "customer": "김기문",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-04-01",
+      "platform": "네이버",
+      "customer": "조은비",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-04-01",
+      "platform": "네이버",
+      "customer": "박진주",
+      "product": "쿨 앤 딥",
+      "type": "1+1",
+      "amount": 17500
+    },
+    {
+      "date": "2026-04-01",
+      "platform": "네이버",
+      "customer": "송태분",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 9900
+    },
+    {
+      "date": "2026-04-02",
+      "platform": "에이블리",
+      "customer": "김지현",
+      "product": "마일드 앤 포어",
+      "type": "단품",
+      "amount": 11631
+    },
+    {
+      "date": "2026-04-02",
+      "platform": "에이블리",
+      "customer": "여수민",
+      "product": "마일드 앤 포어",
+      "type": "단품",
+      "amount": 12271
+    },
+    {
+      "date": "2026-04-02",
+      "platform": "네이버",
+      "customer": "이애경",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 24800
+    },
+    {
+      "date": "2026-04-02",
+      "platform": "네이버",
+      "customer": "최영미",
+      "product": "온가족",
+      "type": "단품",
+      "amount": 16500
+    },
+    {
+      "date": "2026-04-02",
+      "platform": "네이버",
+      "customer": "박재광",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 14900
+    },
+    {
+      "date": "2026-04-02",
+      "platform": "네이버",
+      "customer": "김광숙",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 25300
+    },
+    {
+      "date": "2026-04-03",
+      "platform": "네이버",
+      "customer": "이경미",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 9900
+    },
+    {
+      "date": "2026-04-03",
+      "platform": "네이버",
+      "customer": "장현웅",
+      "product": "온가족",
+      "type": "단품",
+      "amount": 18000
+    },
+    {
+      "date": "2026-04-04",
+      "platform": "에이블리",
+      "customer": "김형옥",
+      "product": "쿨 앤 마일드",
+      "type": "단품",
+      "amount": 9963
+    },
+    {
+      "date": "2026-04-04",
+      "platform": "CJ온스타일",
+      "customer": "이두*",
+      "product": "마일드 앤 포어",
+      "type": "단품",
+      "amount": 15720
+    },
+    {
+      "date": "2026-04-04",
+      "platform": "네이버",
+      "customer": "지명호",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 9900
+    },
+    {
+      "date": "2026-04-04",
+      "platform": "네이버",
+      "customer": "지신복",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 9900
+    },
+    {
+      "date": "2026-04-04",
+      "platform": "네이버",
+      "customer": "신미숙",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 9900
+    },
+    {
+      "date": "2026-04-04",
+      "platform": "네이버",
+      "customer": "이효선",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 9900
+    },
+    {
+      "date": "2026-04-04",
+      "platform": "네이버",
+      "customer": "조난주",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 10400
+    },
+    {
+      "date": "2026-04-05",
+      "platform": "에이블리",
+      "customer": "신하언",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 10236
+    },
+    {
+      "date": "2026-04-05",
+      "platform": "에이블리",
+      "customer": "강지현",
+      "product": "마일드 앤 포어",
+      "type": "단품",
+      "amount": 15376
+    },
+    {
+      "date": "2026-04-05",
+      "platform": "네이버",
+      "customer": "허수성",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 10400
+    },
+    {
+      "date": "2026-04-05",
+      "platform": "네이버",
+      "customer": "전용근",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 10400
+    },
+    {
+      "date": "2026-04-05",
+      "platform": "네이버",
+      "customer": "오현수",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 14900
+    },
+    {
+      "date": "2026-04-05",
+      "platform": "네이버",
+      "customer": "채규상",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 9900
+    },
+    {
+      "date": "2026-04-05",
+      "platform": "네이버",
+      "customer": "이다혜",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 9900
+    },
+    {
+      "date": "2026-04-06",
+      "platform": "네이버",
+      "customer": "우제홍",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 9900
+    },
+    {
+      "date": "2026-04-06",
+      "platform": "네이버",
+      "customer": "한의석",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 9900
+    },
+    {
+      "date": "2026-04-06",
+      "platform": "네이버",
+      "customer": "손광성",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 13900
+    },
+    {
+      "date": "2026-04-06",
+      "platform": "네이버",
+      "customer": "이승희",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 9900
+    },
+    {
+      "date": "2026-04-07",
+      "platform": "네이버",
+      "customer": "강정연",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 14900
+    },
+    {
+      "date": "2026-04-07",
+      "platform": "네이버",
+      "customer": "곽윤경",
+      "product": "쿨 앤 딥",
+      "type": "1+1",
+      "amount": 18000
+    },
+    {
+      "date": "2026-04-08",
+      "platform": "네이버",
+      "customer": "김일례",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 9900
+    },
+    {
+      "date": "2026-04-08",
+      "platform": "네이버",
+      "customer": "김윤정",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 9900
+    },
+    {
+      "date": "2026-04-08",
+      "platform": "네이버",
+      "customer": "이재훈",
+      "product": "쿨 앤 마일드",
+      "type": "단품",
+      "amount": 10400
+    },
+    {
+      "date": "2026-04-08",
+      "platform": "네이버",
+      "customer": "안효숙",
+      "product": "쿨 앤 딥",
+      "type": "1+1",
+      "amount": 17500
+    },
+    {
+      "date": "2026-04-09",
+      "platform": "네이버",
+      "customer": "류승미",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 9900
+    },
+    {
+      "date": "2026-04-10",
+      "platform": "네이버",
+      "customer": "장미영",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 10400
+    },
+    {
+      "date": "2026-04-10",
+      "platform": "네이버",
+      "customer": "유지원",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 9900
+    },
+    {
+      "date": "2026-04-10",
+      "platform": "에이블리",
+      "customer": "박다인",
+      "product": "마일드 앤 포어",
+      "type": "단품",
+      "amount": 14577
+    },
+    {
+      "date": "2026-04-11",
+      "platform": "네이버",
+      "customer": "마영희",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 14900
+    },
+    {
+      "date": "2026-04-12",
+      "platform": "네이버",
+      "customer": "이태늠",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 10400
+    },
+    {
+      "date": "2026-04-12",
+      "platform": "네이버",
+      "customer": "김상호",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 10200
+    },
+    {
+      "date": "2026-04-12",
+      "platform": "네이버",
+      "customer": "김상호",
+      "product": "마일드 앤 포어",
+      "type": "단품",
+      "amount": 16100
+    },
+    {
+      "date": "2026-04-12",
+      "platform": "네이버",
+      "customer": "박경희",
+      "product": "쿨 앤 딥",
+      "type": "1+1",
+      "amount": 18000
+    },
+    {
+      "date": "2026-04-12",
+      "platform": "네이버",
+      "customer": "이춘심",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 10400
+    },
+    {
+      "date": "2026-04-12",
+      "platform": "에이블리",
+      "customer": "김세빈",
+      "product": "마일드 앤 포어",
+      "type": "단품",
+      "amount": 16200
+    },
+    {
+      "date": "2026-04-12",
+      "platform": "지그재그",
+      "customer": "김송정",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 11900
+    },
+    {
+      "date": "2026-04-13",
+      "platform": "에이블리",
+      "customer": "강경아",
+      "product": "마일드 앤 포어",
+      "type": "단품",
+      "amount": 15210
+    },
+    {
+      "date": "2026-04-14",
+      "platform": "네이버",
+      "customer": "임영자",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 9900
+    },
+    {
+      "date": "2026-04-15",
+      "platform": "네이버",
+      "customer": "최성미",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 9900
+    },
+    {
+      "date": "2026-04-15",
+      "platform": "네이버",
+      "customer": "TIANGUANGDE",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 14900
+    },
+    {
+      "date": "2026-04-15",
+      "platform": "네이버",
+      "customer": "강은지",
+      "product": "쿨 앤 마일드",
+      "type": "단품",
+      "amount": 9900
+    },
+    {
+      "date": "2026-04-15",
+      "platform": "에이블리",
+      "customer": "홍민주",
+      "product": "쿨 앤 마일드",
+      "type": "1+1",
+      "amount": 17900
+    },
+    {
+      "date": "2026-04-15",
+      "platform": "CJ온스타일",
+      "customer": "박미*",
+      "product": "마일드 앤 포어",
+      "type": "단품",
+      "amount": 15720
+    },
+    {
+      "date": "2026-03-01",
+      "platform": "네이버",
+      "customer": "소윤희",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-03-01",
+      "platform": "네이버",
+      "customer": "이명희",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8900
+    },
+    {
+      "date": "2026-03-01",
+      "platform": "네이버",
+      "customer": "강성현",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-03-01",
+      "platform": "네이버",
+      "customer": "박범진",
+      "product": "쿨 앤 딥",
+      "type": "1+1",
+      "amount": 23800
+    },
+    {
+      "date": "2026-03-01",
+      "platform": "네이버",
+      "customer": "정미화",
+      "product": "쿨 앤 딥",
+      "type": "1+1",
+      "amount": 17500
+    },
+    {
+      "date": "2026-03-01",
+      "platform": "네이버",
+      "customer": "김영희",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-03-01",
+      "platform": "화해",
+      "customer": "유지현",
+      "product": "쿨 앤 마일드",
+      "type": "1+1",
+      "amount": 14348
+    },
+    {
+      "date": "2026-03-02",
+      "platform": "네이버",
+      "customer": "심승연",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-03-02",
+      "platform": "네이버",
+      "customer": "김명란",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-03-02",
+      "platform": "네이버",
+      "customer": "최준성",
+      "product": "쿨 앤 딥",
+      "type": "1+1",
+      "amount": 49700
+    },
+    {
+      "date": "2026-03-02",
+      "platform": "네이버",
+      "customer": "유태옥",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 16500
+    },
+    {
+      "date": "2026-03-02",
+      "platform": "네이버",
+      "customer": "김민경",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-03-02",
+      "platform": "네이버",
+      "customer": "김송화",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-03-02",
+      "platform": "네이버",
+      "customer": "박선정",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-03-02",
+      "platform": "네이버",
+      "customer": "조미경",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 17500
+    },
+    {
+      "date": "2026-03-02",
+      "platform": "네이버",
+      "customer": "임교상",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-03-02",
+      "platform": "네이버",
+      "customer": "우지수",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-03-03",
+      "platform": "네이버",
+      "customer": "김진영",
+      "product": "마일드 앤 포어",
+      "type": "단품",
+      "amount": 10300
+    },
+    {
+      "date": "2026-03-03",
+      "platform": "에이블리",
+      "customer": "엄윤주",
+      "product": "쿨 앤 딥",
+      "type": "1+1",
+      "amount": 17943
+    },
+    {
+      "date": "2026-03-03",
+      "platform": "에이블리",
+      "customer": "김태연",
+      "product": "마일드 앤 포어",
+      "type": "단품",
+      "amount": 11613
+    },
+    {
+      "date": "2026-03-03",
+      "platform": "네이버",
+      "customer": "이지민",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8900
+    },
+    {
+      "date": "2026-03-03",
+      "platform": "네이버",
+      "customer": "임선경",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8900
+    },
+    {
+      "date": "2026-03-03",
+      "platform": "네이버",
+      "customer": "예효건",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-03-04",
+      "platform": "네이버",
+      "customer": "홍경희",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-03-04",
+      "platform": "네이버",
+      "customer": "최새롬",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-03-04",
+      "platform": "톡스토어",
+      "customer": "김미영",
+      "product": "쿨 앤 딥",
+      "type": "1+1",
+      "amount": 15000
+    },
+    {
+      "date": "2026-03-05",
+      "platform": "에이블리",
+      "customer": "서지우",
+      "product": "마일드 앤 포어",
+      "type": "단품",
+      "amount": 12037
+    },
+    {
+      "date": "2026-03-05",
+      "platform": "네이버",
+      "customer": "최규상",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 18000
+    },
+    {
+      "date": "2026-03-05",
+      "platform": "네이버",
+      "customer": "신용숙",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 14900
+    },
+    {
+      "date": "2026-03-05",
+      "platform": "네이버",
+      "customer": "최정해",
+      "product": "쿨 앤 딥",
+      "type": "1+1",
+      "amount": 29800
+    },
+    {
+      "date": "2026-03-05",
+      "platform": "톡스토어",
+      "customer": "이상석",
+      "product": "쿨 앤 딥",
+      "type": "1+1",
+      "amount": 18000
+    },
+    {
+      "date": "2026-03-05",
+      "platform": "톡스토어",
+      "customer": "이현희",
+      "product": "쿨 앤 딥",
+      "type": "1+1",
+      "amount": 18000
+    },
+    {
+      "date": "2026-03-05",
+      "platform": "톡스토어",
+      "customer": "방재현",
+      "product": "쿨 앤 딥",
+      "type": "1+1",
+      "amount": 18000
+    },
+    {
+      "date": "2026-03-06",
+      "platform": "네이버",
+      "customer": "김태형",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8900
+    },
+    {
+      "date": "2026-03-06",
+      "platform": "톡스토어",
+      "customer": "최빛나리",
+      "product": "쿨 앤 딥",
+      "type": "1+1",
+      "amount": 18000
+    },
+    {
+      "date": "2026-03-06",
+      "platform": "에이블리",
+      "customer": "우지은",
+      "product": "쿨 앤 마일드",
+      "type": "단품",
+      "amount": 9284
+    },
+    {
+      "date": "2026-03-06",
+      "platform": "에이블리",
+      "customer": "이혜진",
+      "product": "마일드 앤 포어",
+      "type": "단품",
+      "amount": 12556
+    },
+    {
+      "date": "2026-03-06",
+      "platform": "지그재그",
+      "customer": "박미화",
+      "product": "쿨 앤 딥, 쿨 앤 마일드",
+      "type": "단품",
+      "amount": 19020
+    },
+    {
+      "date": "2026-03-06",
+      "platform": "네이버",
+      "customer": "한은희",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-03-07",
+      "platform": "에이블리",
+      "customer": "김도현 tnp",
+      "product": "마일드 앤 포어",
+      "type": "단품",
+      "amount": 12255
+    },
+    {
+      "date": "2026-03-07",
+      "platform": "에이블리",
+      "customer": "전초은",
+      "product": "쿨 앤 마일드",
+      "type": "단품",
+      "amount": 9690
+    },
+    {
+      "date": "2026-03-07",
+      "platform": "네이버",
+      "customer": "조윤정",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8710
+    },
+    {
+      "date": "2026-03-07",
+      "platform": "네이버",
+      "customer": "조윤정",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 14590
+    },
+    {
+      "date": "2026-03-07",
+      "platform": "네이버",
+      "customer": "박아영",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-03-07",
+      "platform": "네이버",
+      "customer": "이지희",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-03-08",
+      "platform": "에이블리",
+      "customer": "황수영",
+      "product": "쿨 앤 마일드",
+      "type": "단품",
+      "amount": 9900
+    },
+    {
+      "date": "2026-03-08",
+      "platform": "네이버",
+      "customer": "박승희",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-03-08",
+      "platform": "네이버",
+      "customer": "이봄",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-03-08",
+      "platform": "네이버",
+      "customer": "박찌은",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-03-08",
+      "platform": "네이버",
+      "customer": "서현주",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8900
+    },
+    {
+      "date": "2026-03-08",
+      "platform": "네이버",
+      "customer": "김설화",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8900
+    },
+    {
+      "date": "2026-03-09",
+      "platform": "네이버",
+      "customer": "기영훈",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-03-09",
+      "platform": "네이버",
+      "customer": "이상옥",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 17500
+    },
+    {
+      "date": "2026-03-09",
+      "platform": "네이버",
+      "customer": "이근수",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8900
+    },
+    {
+      "date": "2026-03-09",
+      "platform": "화해",
+      "customer": "유지현",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 12660
+    },
+    {
+      "date": "2026-03-09",
+      "platform": "화해",
+      "customer": "유지현",
+      "product": "쿨 앤 마일드",
+      "type": "단품",
+      "amount": 12752
+    },
+    {
+      "date": "2026-03-09",
+      "platform": "네이버",
+      "customer": "장영미",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-03-09",
+      "platform": "에이블리",
+      "customer": "황나경",
+      "product": "쿨 앤 마일드",
+      "type": "단품",
+      "amount": 8892
+    },
+    {
+      "date": "2026-03-09",
+      "platform": "에이블리",
+      "customer": "애기/김사랑",
+      "product": "마일드 앤 포어",
+      "type": "단품",
+      "amount": 12255
+    },
+    {
+      "date": "2026-03-09",
+      "platform": "에이블리",
+      "customer": "때은/김수혁",
+      "product": "마일드 앤 포어",
+      "type": "단품",
+      "amount": 12255
+    },
+    {
+      "date": "2026-03-10",
+      "platform": "네이버",
+      "customer": "홍유진",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8900
+    },
+    {
+      "date": "2026-03-10",
+      "platform": "네이버",
+      "customer": "이명화",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 14900
+    },
+    {
+      "date": "2026-03-10",
+      "platform": "자사몰",
+      "customer": "김성현",
+      "product": "쿨 앤 마일드",
+      "type": "단품",
+      "amount": 14900
+    },
+    {
+      "date": "2026-03-10",
+      "platform": "네이버",
+      "customer": "유영희",
+      "product": "쿨 앤 마일드",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-03-10",
+      "platform": "네이버",
+      "customer": "오현수",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 14900
+    },
+    {
+      "date": "2026-03-10",
+      "platform": "네이버",
+      "customer": "차정숙",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-03-11",
+      "platform": "네이버",
+      "customer": "최영아",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 14900
+    },
+    {
+      "date": "2026-03-11",
+      "platform": "네이버",
+      "customer": "이경희",
+      "product": "쿨 앤 딥",
+      "type": "1+1",
+      "amount": 17500
+    },
+    {
+      "date": "2026-03-11",
+      "platform": "네이버",
+      "customer": "안병근",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-03-11",
+      "platform": "네이버",
+      "customer": "김상영",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 23300
+    },
+    {
+      "date": "2026-03-11",
+      "platform": "네이버",
+      "customer": "김종균",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 23300
+    },
+    {
+      "date": "2026-03-11",
+      "platform": "네이버",
+      "customer": "김수정",
+      "product": "쿨 앤 마일드",
+      "type": "단품",
+      "amount": 8900
+    },
+    {
+      "date": "2026-03-11",
+      "platform": "네이버",
+      "customer": "윤화자",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-03-11",
+      "platform": "네이버",
+      "customer": "서신형",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-03-12",
+      "platform": "네이버",
+      "customer": "윤경옥",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-03-12",
+      "platform": "네이버",
+      "customer": "김학래",
+      "product": "쿨 앤 딥",
+      "type": "1+1",
+      "amount": 17500
+    },
+    {
+      "date": "2026-03-12",
+      "platform": "네이버",
+      "customer": "김가현",
+      "product": "쿨 앤 마일드",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-03-12",
+      "platform": "에이블리",
+      "customer": "다혜 /강다혜",
+      "product": "마일드 앤 포어",
+      "type": "단품",
+      "amount": 12255
+    },
+    {
+      "date": "2026-03-12",
+      "platform": "네이버",
+      "customer": "강혜신",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-03-12",
+      "platform": "네이버",
+      "customer": "김상임",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 17500
+    },
+    {
+      "date": "2026-03-12",
+      "platform": "네이버",
+      "customer": "한애숙",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-03-12",
+      "platform": "네이버",
+      "customer": "김시현",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-03-12",
+      "platform": "톡스토어",
+      "customer": "최영민",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 11900
+    },
+    {
+      "date": "2026-03-12",
+      "platform": "에이블리",
+      "customer": "tndk092323/김수아",
+      "product": "쿨 앤 마일드",
+      "type": "단품",
+      "amount": 9310
+    },
+    {
+      "date": "2026-03-13",
+      "platform": "네이버",
+      "customer": "오혜윤",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-03-13",
+      "platform": "에이블리",
+      "customer": "ㄱ정다연잉/정다연",
+      "product": "마일드 앤 포어",
+      "type": "단품",
+      "amount": 12084
+    },
+    {
+      "date": "2026-03-13",
+      "platform": "네이버",
+      "customer": "성영욱",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 14900
+    },
+    {
+      "date": "2026-03-13",
+      "platform": "네이버",
+      "customer": "김명숙",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8900
+    },
+    {
+      "date": "2026-03-13",
+      "platform": "네이버",
+      "customer": "남광희",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8900
+    },
+    {
+      "date": "2026-03-13",
+      "platform": "네이버",
+      "customer": "장유나",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-03-13",
+      "platform": "네이버",
+      "customer": "조윤성",
+      "product": "쿨 앤 딥",
+      "type": "1+1",
+      "amount": 23800
+    },
+    {
+      "date": "2026-03-13",
+      "platform": "네이버",
+      "customer": "이태연",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-03-14",
+      "platform": "네이버",
+      "customer": "정정애",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-03-14",
+      "platform": "네이버",
+      "customer": "김경민",
+      "product": "쿨 앤 마일드",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-03-15",
+      "platform": "네이버",
+      "customer": "민형도",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-03-15",
+      "platform": "네이버",
+      "customer": "전해성",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 14900
+    },
+    {
+      "date": "2026-03-15",
+      "platform": "네이버",
+      "customer": "고선희",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-03-15",
+      "platform": "네이버",
+      "customer": "김나성",
+      "product": "쿨 앤 마일드",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-03-16",
+      "platform": "네이버",
+      "customer": "채현주",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-03-16",
+      "platform": "네이버",
+      "customer": "이나은",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8900
+    },
+    {
+      "date": "2026-03-16",
+      "platform": "네이버",
+      "customer": "이성재",
+      "product": "쿨 앤 딥",
+      "type": "1+1",
+      "amount": 17500
+    },
+    {
+      "date": "2026-03-16",
+      "platform": "네이버",
+      "customer": "CHUNG BONNIE CHI YUN",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 17500
+    },
+    {
+      "date": "2026-03-16",
+      "platform": "네이버",
+      "customer": "반영미",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-03-16",
+      "platform": "에이블리",
+      "customer": "권소영",
+      "product": "쿨 앤 마일드",
+      "type": "단품",
+      "amount": 12874
+    },
+    {
+      "date": "2026-03-16",
+      "platform": "에이블리",
+      "customer": "한수현",
+      "product": "마일드 앤 포어",
+      "type": "단품",
+      "amount": 8895
+    },
+    {
+      "date": "2026-03-16",
+      "platform": "네이버",
+      "customer": "이경재",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 14900
+    },
+    {
+      "date": "2026-03-17",
+      "platform": "에이블리",
+      "customer": "김형태",
+      "product": "마일드 앤 포어",
+      "type": "단품",
+      "amount": 12860
+    },
+    {
+      "date": "2026-03-17",
+      "platform": "에이블리",
+      "customer": "강민승",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 9701
+    },
+    {
+      "date": "2026-03-17",
+      "platform": "에이블리",
+      "customer": "김예진",
+      "product": "마일드 앤 포어",
+      "type": "단품",
+      "amount": 11822
+    },
+    {
+      "date": "2026-03-18",
+      "platform": "에이블리",
+      "customer": "신미지",
+      "product": "쿨 앤 마일드",
+      "type": "단품",
+      "amount": 9117
+    },
+    {
+      "date": "2026-03-18",
+      "platform": "에이블리",
+      "customer": "임예현",
+      "product": "쿨 앤 마일드",
+      "type": "단품",
+      "amount": 9064
+    },
+    {
+      "date": "2026-03-18",
+      "platform": "화해",
+      "customer": "김우성",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 12566
+    },
+    {
+      "date": "2026-03-21",
+      "platform": "에이블리",
+      "customer": "다울/황다울",
+      "product": "마일드 앤 포어",
+      "type": "단품",
+      "amount": 12074
+    },
+    {
+      "date": "2026-03-23",
+      "platform": "지그재그",
+      "customer": "원민지",
+      "product": "쿨 앤 마일드",
+      "type": "단품",
+      "amount": 9510
+    },
+    {
+      "date": "2026-03-23",
+      "platform": "에이블리",
+      "customer": "k2n6jbf96n/박민하",
+      "product": "마일드 앤 포어",
+      "type": "단품",
+      "amount": 12160
+    },
+    {
+      "date": "2026-03-23",
+      "platform": "에이블리",
+      "customer": "이해리",
+      "product": "쿨 앤 마일드",
+      "type": "단품",
+      "amount": 9413
+    },
+    {
+      "date": "2026-03-23",
+      "platform": "화해",
+      "customer": "류재환",
+      "product": "쿨 앤 딥",
+      "type": "1+1",
+      "amount": 14400
+    },
+    {
+      "date": "2026-03-24",
+      "platform": "에이블리",
+      "customer": "한대연",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8820
+    },
+    {
+      "date": "2026-03-25",
+      "platform": "지마켓",
+      "customer": "김순희",
+      "product": "쿨 앤 마일드",
+      "type": "단품",
+      "amount": 11430
+    },
+    {
+      "date": "2026-03-26",
+      "platform": "지그재그",
+      "customer": "신민경",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 9510
+    },
+    {
+      "date": "2026-03-27",
+      "platform": "에이블리",
+      "customer": "조현아",
+      "product": "마일드 앤 포어",
+      "type": "단품",
+      "amount": 12800
+    },
+    {
+      "date": "2026-03-30",
+      "platform": "에이블리",
+      "customer": "이현주",
+      "product": "쿨 앤 마일드",
+      "type": "단품",
+      "amount": 7350
+    },
+    {
+      "date": "2026-03-31",
+      "platform": "에이블리",
+      "customer": "오영주",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 9358
+    },
+    {
+      "date": "2025-02-02",
+      "platform": "네이버",
+      "customer": "이동섭",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 14900
+    },
+    {
+      "date": "2025-02-01",
+      "platform": "네이버",
+      "customer": "정현주",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2025-02-01",
+      "platform": "네이버",
+      "customer": "임현석",
+      "product": "마일드 앤 포어",
+      "type": "단품",
+      "amount": 10300
+    },
+    {
+      "date": "2025-02-01",
+      "platform": "네이버",
+      "customer": "김미림",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 16500
+    },
+    {
+      "date": "2025-02-01",
+      "platform": "네이버",
+      "customer": "최희정",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2025-02-01",
+      "platform": "네이버",
+      "customer": "서혜승",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2025-02-01",
+      "platform": "네이버",
+      "customer": "최미일",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2025-02-01",
+      "platform": "네이버",
+      "customer": "김수진",
+      "product": "쿨 앤 딥",
+      "type": "1+1",
+      "amount": 23300
+    },
+    {
+      "date": "2025-02-01",
+      "platform": "네이버",
+      "customer": "김명균",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2025-02-01",
+      "platform": "네이버",
+      "customer": "전해경",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2025-02-01",
+      "platform": "네이버",
+      "customer": "남주연",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2025-02-01",
+      "platform": "네이버",
+      "customer": "배미정",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2025-02-01",
+      "platform": "네이버",
+      "customer": "안광민",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-01",
+      "platform": "지그재그",
+      "customer": "허선주",
+      "product": "마일드 앤 포어, 쿨 앤 딥",
+      "type": "단품",
+      "amount": 13900
+    },
+    {
+      "date": "2026-02-02",
+      "platform": "네이버",
+      "customer": "엄정희",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 16500
+    },
+    {
+      "date": "2026-02-02",
+      "platform": "네이버",
+      "customer": "정미령",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-02",
+      "platform": "네이버",
+      "customer": "손재민",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 14900
+    },
+    {
+      "date": "2026-02-02",
+      "platform": "네이버",
+      "customer": "안정아",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 16500
+    },
+    {
+      "date": "2026-02-02",
+      "platform": "네이버",
+      "customer": "서연서",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-02",
+      "platform": "네이버",
+      "customer": "정미경",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-03",
+      "platform": "네이버",
+      "customer": "정은",
+      "product": "쿨 앤 마일드",
+      "type": "단품",
+      "amount": 9900
+    },
+    {
+      "date": "2026-02-03",
+      "platform": "네이버",
+      "customer": "김정금",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-03",
+      "platform": "네이버",
+      "customer": "차현아",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 16500
+    },
+    {
+      "date": "2026-02-03",
+      "platform": "네이버",
+      "customer": "김정숙",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 16500
+    },
+    {
+      "date": "2026-02-03",
+      "platform": "네이버",
+      "customer": "최지성",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-03",
+      "platform": "네이버",
+      "customer": "최용훈",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 29800
+    },
+    {
+      "date": "2026-02-03",
+      "platform": "에이블리",
+      "customer": "정지윤",
+      "product": "마일드 앤 포어",
+      "type": "단품",
+      "amount": 13478
+    },
+    {
+      "date": "2026-02-03",
+      "platform": "네이버",
+      "customer": "박금숙",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 16500
+    },
+    {
+      "date": "2026-02-03",
+      "platform": "네이버",
+      "customer": "김현경",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-03",
+      "platform": "네이버",
+      "customer": "이동섭",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 14900
+    },
+    {
+      "date": "2026-02-03",
+      "platform": "네이버",
+      "customer": "PIAO MEISHAN",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-03",
+      "platform": "네이버",
+      "customer": "이윤순",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 14900
+    },
+    {
+      "date": "2026-02-04",
+      "platform": "네이버",
+      "customer": "최정숙",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 14900
+    },
+    {
+      "date": "2026-02-04",
+      "platform": "에이블리",
+      "customer": "곽단우",
+      "product": "마일드 앤 포어",
+      "type": "단품",
+      "amount": 10920
+    },
+    {
+      "date": "2026-02-04",
+      "platform": "에이블리",
+      "customer": "신기숙",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 9900
+    },
+    {
+      "date": "2026-02-04",
+      "platform": "지그재그",
+      "customer": "전소연",
+      "product": "쿨 앤 마일드",
+      "type": "단품",
+      "amount": 9900
+    },
+    {
+      "date": "2026-02-04",
+      "platform": "네이버",
+      "customer": "백현주",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 16500
+    },
+    {
+      "date": "2026-02-04",
+      "platform": "네이버",
+      "customer": "오수연",
+      "product": "쿨 앤 마일드",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-04",
+      "platform": "에이블리",
+      "customer": "조여원",
+      "product": "마일드 앤 포어",
+      "type": "단품",
+      "amount": 13800
+    },
+    {
+      "date": "2026-02-04",
+      "platform": "네이버",
+      "customer": "정현주",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-04",
+      "platform": "네이버",
+      "customer": "임정희",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 14900
+    },
+    {
+      "date": "2026-02-05",
+      "platform": "네이버",
+      "customer": "김미정",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 16500
+    },
+    {
+      "date": "2026-02-05",
+      "platform": "네이버",
+      "customer": "장송애",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 17000
+    },
+    {
+      "date": "2026-02-05",
+      "platform": "네이버",
+      "customer": "신재훈",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-05",
+      "platform": "지그재그",
+      "customer": "이지현",
+      "product": "마일드 앤 포어",
+      "type": "단품",
+      "amount": 12720
+    },
+    {
+      "date": "2026-02-05",
+      "platform": "에이블리",
+      "customer": "홍은설",
+      "product": "쿨 앤 마일드",
+      "type": "단품",
+      "amount": 9249
+    },
+    {
+      "date": "2026-02-05",
+      "platform": "네이버",
+      "customer": "유혜란",
+      "product": "마일드 앤 포어",
+      "type": "단품",
+      "amount": 28500
+    },
+    {
+      "date": "2026-02-05",
+      "platform": "네이버",
+      "customer": "변재홍",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-05",
+      "platform": "네이버",
+      "customer": "김현선",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8900
+    },
+    {
+      "date": "2026-02-05",
+      "platform": "에이블리",
+      "customer": "류보미",
+      "product": "마일드 앤 포어",
+      "type": "단품",
+      "amount": 11815
+    },
+    {
+      "date": "2026-02-06",
+      "platform": "네이버",
+      "customer": "박연화",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-06",
+      "platform": "네이버",
+      "customer": "홍성가",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-06",
+      "platform": "네이버",
+      "customer": "채종훈",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8900
+    },
+    {
+      "date": "2026-02-06",
+      "platform": "지그재그",
+      "customer": "서기영",
+      "product": "쿨 앤 마일드",
+      "type": "단품",
+      "amount": 9510
+    },
+    {
+      "date": "2026-02-06",
+      "platform": "네이버",
+      "customer": "배현정",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 16500
+    },
+    {
+      "date": "2026-02-06",
+      "platform": "네이버",
+      "customer": "김기범",
+      "product": "마일드 앤 포어",
+      "type": "단품",
+      "amount": 8900
+    },
+    {
+      "date": "2026-02-06",
+      "platform": "네이버",
+      "customer": "최대남",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-07",
+      "platform": "네이버",
+      "customer": "한수민",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 16500
+    },
+    {
+      "date": "2026-02-07",
+      "platform": "네이버",
+      "customer": "서동근",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-07",
+      "platform": "네이버",
+      "customer": "이성자",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 14900
+    },
+    {
+      "date": "2026-02-07",
+      "platform": "네이버",
+      "customer": "김시온",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 16500
+    },
+    {
+      "date": "2026-02-07",
+      "platform": "네이버",
+      "customer": "김나리",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 14900
+    },
+    {
+      "date": "2026-02-07",
+      "platform": "에이블리",
+      "customer": "이예주",
+      "product": "마일드 앤 포어",
+      "type": "단품",
+      "amount": 13900
+    },
+    {
+      "date": "2026-02-07",
+      "platform": "에이블리",
+      "customer": "엄유진",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8950
+    },
+    {
+      "date": "2026-02-07",
+      "platform": "지그재그",
+      "customer": "김승찬",
+      "product": "쿨 앤 마일드",
+      "type": "단품",
+      "amount": 9510
+    },
+    {
+      "date": "2026-02-08",
+      "platform": "네이버",
+      "customer": "미니니",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8900
+    },
+    {
+      "date": "2026-02-08",
+      "platform": "네이버",
+      "customer": "고연정",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-08",
+      "platform": "네이버",
+      "customer": "안소윤",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 16500
+    },
+    {
+      "date": "2026-02-08",
+      "platform": "네이버",
+      "customer": "황태욱",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 16500
+    },
+    {
+      "date": "2026-02-08",
+      "platform": "네이버",
+      "customer": "이도빈",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-08",
+      "platform": "네이버",
+      "customer": "이미현",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8900
+    },
+    {
+      "date": "2026-02-08",
+      "platform": "네이버",
+      "customer": "최형구",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 14700
+    },
+    {
+      "date": "2026-02-08",
+      "platform": "에이블리",
+      "customer": "박지연",
+      "product": "마일드 앤 포어",
+      "type": "단품",
+      "amount": 11635
+    },
+    {
+      "date": "2026-02-09",
+      "platform": "네이버",
+      "customer": "권나해",
+      "product": "쿨 앤 마일드",
+      "type": "단품",
+      "amount": 13600
+    },
+    {
+      "date": "2026-02-09",
+      "platform": "네이버",
+      "customer": "하지영",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-09",
+      "platform": "네이버",
+      "customer": "권나해",
+      "product": "쿨 앤 마일드",
+      "type": "단품",
+      "amount": 8700
+    },
+    {
+      "date": "2026-02-09",
+      "platform": "네이버",
+      "customer": "이채윤",
+      "product": "쿨 앤 마일드",
+      "type": "1+1",
+      "amount": 36000
+    },
+    {
+      "date": "2026-02-09",
+      "platform": "네이버",
+      "customer": "김선아",
+      "product": "쿨 앤 마일드",
+      "type": "단품",
+      "amount": 8900
+    },
+    {
+      "date": "2026-02-09",
+      "platform": "에이블리",
+      "customer": "민소연",
+      "product": "마일드 앤 포어",
+      "type": "단품",
+      "amount": 12373
+    },
+    {
+      "date": "2026-02-09",
+      "platform": "네이버",
+      "customer": "이용숙",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8900
+    },
+    {
+      "date": "2026-02-09",
+      "platform": "네이버",
+      "customer": "김강희",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-09",
+      "platform": "네이버",
+      "customer": "김희영",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-09",
+      "platform": "네이버",
+      "customer": "신태정",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 16500
+    },
+    {
+      "date": "2026-02-09",
+      "platform": "네이버",
+      "customer": "박순예",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-09",
+      "platform": "네이버",
+      "customer": "최이령",
+      "product": "쿨 앤 마일드",
+      "type": "단품",
+      "amount": 10300
+    },
+    {
+      "date": "2026-02-10",
+      "platform": "네이버",
+      "customer": "정경희",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-10",
+      "platform": "네이버",
+      "customer": "김선희",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-10",
+      "platform": "네이버",
+      "customer": "전혜경",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-10",
+      "platform": "에이블리",
+      "customer": "유정은",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 9749
+    },
+    {
+      "date": "2026-02-10",
+      "platform": "에이블리",
+      "customer": "kja980412",
+      "product": "쿨 앤 마일드",
+      "type": "단품",
+      "amount": 9810
+    },
+    {
+      "date": "2026-02-10",
+      "platform": "에이블리",
+      "customer": "윤서",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 9810
+    },
+    {
+      "date": "2026-02-10",
+      "platform": "지그재그",
+      "customer": "장하경",
+      "product": "마일드 앤 포어",
+      "type": "단품",
+      "amount": 12390
+    },
+    {
+      "date": "2026-02-10",
+      "platform": "네이버",
+      "customer": "박미향",
+      "product": "쿨 앤 마일드",
+      "type": "단품",
+      "amount": 16500
+    },
+    {
+      "date": "2026-02-11",
+      "platform": "네이버",
+      "customer": "이종원",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 14900
+    },
+    {
+      "date": "2026-02-11",
+      "platform": "네이버",
+      "customer": "김선희",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-11",
+      "platform": "네이버",
+      "customer": "임선아",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8900
+    },
+    {
+      "date": "2026-02-11",
+      "platform": "네이버",
+      "customer": "구동현",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-11",
+      "platform": "네이버",
+      "customer": "배진희",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 16500
+    },
+    {
+      "date": "2026-02-11",
+      "platform": "네이버",
+      "customer": "이혜진",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 16500
+    },
+    {
+      "date": "2026-02-12",
+      "platform": "네이버",
+      "customer": "이주형",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-12",
+      "platform": "네이버",
+      "customer": "홍기선",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 17000
+    },
+    {
+      "date": "2026-02-12",
+      "platform": "네이버",
+      "customer": "박지훈",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8900
+    },
+    {
+      "date": "2026-02-12",
+      "platform": "네이버",
+      "customer": "김나리",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 14900
+    },
+    {
+      "date": "2026-02-12",
+      "platform": "네이버",
+      "customer": "이주원",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 14900
+    },
+    {
+      "date": "2026-02-12",
+      "platform": "네이버",
+      "customer": "이아름",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-13",
+      "platform": "네이버",
+      "customer": "박정",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-13",
+      "platform": "네이버",
+      "customer": "최지영",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 17000
+    },
+    {
+      "date": "2026-02-13",
+      "platform": "에이블리",
+      "customer": "이서우",
+      "product": "마일드 앤 포어",
+      "type": "단품",
+      "amount": 11805
+    },
+    {
+      "date": "2026-02-13",
+      "platform": "네이버",
+      "customer": "장송애",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 17500
+    },
+    {
+      "date": "2026-02-13",
+      "platform": "네이버",
+      "customer": "양윤정",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-13",
+      "platform": "네이버",
+      "customer": "유채희",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 18000
+    },
+    {
+      "date": "2026-02-13",
+      "platform": "네이버",
+      "customer": "배명진",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 18000
+    },
+    {
+      "date": "2026-02-13",
+      "platform": "네이버",
+      "customer": "구선행",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8900
+    },
+    {
+      "date": "2026-02-13",
+      "platform": "네이버",
+      "customer": "이운성",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-13",
+      "platform": "에이블리",
+      "customer": "김연수",
+      "product": "마일드 앤 포어",
+      "type": "단품",
+      "amount": 11684
+    },
+    {
+      "date": "2026-02-14",
+      "platform": "네이버",
+      "customer": "서지윤",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-14",
+      "platform": "네이버",
+      "customer": "조영미",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 14900
+    },
+    {
+      "date": "2026-02-14",
+      "platform": "네이버",
+      "customer": "백영훈",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 18000
+    },
+    {
+      "date": "2026-02-14",
+      "platform": "네이버",
+      "customer": "이호준",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 17500
+    },
+    {
+      "date": "2026-02-14",
+      "platform": "에이블리",
+      "customer": "주민하",
+      "product": "쿨 앤 마일드",
+      "type": "단품",
+      "amount": 9060
+    },
+    {
+      "date": "2026-02-14",
+      "platform": "네이버",
+      "customer": "김영숙",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-14",
+      "platform": "네이버",
+      "customer": "김미영",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 23800
+    },
+    {
+      "date": "2026-02-14",
+      "platform": "네이버",
+      "customer": "유호혁",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 0
+    },
+    {
+      "date": "2026-02-14",
+      "platform": "네이버",
+      "customer": "박하늘",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 0
+    },
+    {
+      "date": "2026-02-14",
+      "platform": "네이버",
+      "customer": "방울이",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 0
+    },
+    {
+      "date": "2026-02-14",
+      "platform": "네이버",
+      "customer": "김혜경",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 0
+    },
+    {
+      "date": "2026-02-14",
+      "platform": "네이버",
+      "customer": "원경립",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 0
+    },
+    {
+      "date": "2026-02-14",
+      "platform": "네이버",
+      "customer": "이계림",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 0
+    },
+    {
+      "date": "2026-02-15",
+      "platform": "네이버",
+      "customer": "장이식",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 0
+    },
+    {
+      "date": "2026-02-15",
+      "platform": "네이버",
+      "customer": "황은미",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 0
+    },
+    {
+      "date": "2026-02-15",
+      "platform": "네이버",
+      "customer": "송혜미",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-15",
+      "platform": "네이버",
+      "customer": "오현수",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 14900
+    },
+    {
+      "date": "2026-02-15",
+      "platform": "네이버",
+      "customer": "강황주",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-16",
+      "platform": "네이버",
+      "customer": "김영희",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-16",
+      "platform": "네이버",
+      "customer": "이순복",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-16",
+      "platform": "네이버",
+      "customer": "유기현",
+      "product": "쿨 앤 딥",
+      "type": "1+1",
+      "amount": 17500
+    },
+    {
+      "date": "2026-02-16",
+      "platform": "네이버",
+      "customer": "최현숙",
+      "product": "쿨 앤 딥",
+      "type": "1+1",
+      "amount": 18000
+    },
+    {
+      "date": "2026-02-16",
+      "platform": "네이버",
+      "customer": "이의범",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8900
+    },
+    {
+      "date": "2026-02-16",
+      "platform": "네이버",
+      "customer": "이승적",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8900
+    },
+    {
+      "date": "2026-02-16",
+      "platform": "네이버",
+      "customer": "허말남",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-16",
+      "platform": "네이버",
+      "customer": "신재훈",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8900
+    },
+    {
+      "date": "2026-02-16",
+      "platform": "네이버",
+      "customer": "양희경",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8900
+    },
+    {
+      "date": "2026-02-17",
+      "platform": "네이버",
+      "customer": "이화엽",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-17",
+      "platform": "네이버",
+      "customer": "이문주",
+      "product": "쿨 앤 딥",
+      "type": "1+1",
+      "amount": 17500
+    },
+    {
+      "date": "2026-02-17",
+      "platform": "네이버",
+      "customer": "김인자",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8900
+    },
+    {
+      "date": "2026-02-17",
+      "platform": "네이버",
+      "customer": "김원섭",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-17",
+      "platform": "네이버",
+      "customer": "김연희",
+      "product": "온가족",
+      "type": "1+1",
+      "amount": 16500
+    },
+    {
+      "date": "2026-02-17",
+      "platform": "네이버",
+      "customer": "이강훈",
+      "product": "쿨 앤 딥",
+      "type": "1+1",
+      "amount": 17500
+    },
+    {
+      "date": "2026-02-17",
+      "platform": "네이버",
+      "customer": "심연숙",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-17",
+      "platform": "네이버",
+      "customer": "박지현",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-17",
+      "platform": "네이버",
+      "customer": "윤정미",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-18",
+      "platform": "네이버",
+      "customer": "박미자",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 14900
+    },
+    {
+      "date": "2026-02-18",
+      "platform": "네이버",
+      "customer": "김민정",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-18",
+      "platform": "네이버",
+      "customer": "고청미",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-18",
+      "platform": "네이버",
+      "customer": "박현순",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-18",
+      "platform": "네이버",
+      "customer": "최원복",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-18",
+      "platform": "네이버",
+      "customer": "정은숙",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8900
+    },
+    {
+      "date": "2026-02-18",
+      "platform": "네이버",
+      "customer": "백은미",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-18",
+      "platform": "에이블리",
+      "customer": "설서인",
+      "product": "마일드 앤 포어",
+      "type": "단품",
+      "amount": 12410
+    },
+    {
+      "date": "2026-02-18",
+      "platform": "에이블리",
+      "customer": "김하영",
+      "product": "마일드 앤 포어",
+      "type": "단품",
+      "amount": 11467
+    },
+    {
+      "date": "2026-02-18",
+      "platform": "에이블리",
+      "customer": "최수진",
+      "product": "마일드 앤 포어",
+      "type": "단품",
+      "amount": 12450
+    },
+    {
+      "date": "2026-02-19",
+      "platform": "네이버",
+      "customer": "서선희",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-19",
+      "platform": "네이버",
+      "customer": "배창석",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-19",
+      "platform": "네이버",
+      "customer": "박광석",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-19",
+      "platform": "네이버",
+      "customer": "김동환",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-19",
+      "platform": "지마켓",
+      "customer": "김현숙",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 10710
+    },
+    {
+      "date": "2026-02-19",
+      "platform": "네이버",
+      "customer": "김유리나",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8900
+    },
+    {
+      "date": "2026-02-19",
+      "platform": "네이버",
+      "customer": "이채은",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-19",
+      "platform": "네이버",
+      "customer": "황인선",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-19",
+      "platform": "네이버",
+      "customer": "이정수",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-20",
+      "platform": "네이버",
+      "customer": "진자연",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 23800
+    },
+    {
+      "date": "2026-02-20",
+      "platform": "네이버",
+      "customer": "성문예",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-20",
+      "platform": "네이버",
+      "customer": "김미애",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-20",
+      "platform": "네이버",
+      "customer": "박경희",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-20",
+      "platform": "네이버",
+      "customer": "곽민규",
+      "product": "쿨 앤 딥",
+      "type": "1+1",
+      "amount": 108000
+    },
+    {
+      "date": "2026-02-20",
+      "platform": "네이버",
+      "customer": "허은예",
+      "product": "마일드 앤 포어",
+      "type": "단품",
+      "amount": 10300
+    },
+    {
+      "date": "2026-02-20",
+      "platform": "네이버",
+      "customer": "허은예",
+      "product": "오일세트",
+      "type": "1+1",
+      "amount": 15400
+    },
+    {
+      "date": "2026-02-20",
+      "platform": "네이버",
+      "customer": "최진혁",
+      "product": "마일드 앤 포어",
+      "type": "단품",
+      "amount": 10800
+    },
+    {
+      "date": "2026-02-20",
+      "platform": "네이버",
+      "customer": "이현진",
+      "product": "쿨 앤 마일드",
+      "type": "1+1",
+      "amount": 35830
+    },
+    {
+      "date": "2026-02-20",
+      "platform": "네이버",
+      "customer": "이현진",
+      "product": "쿨 앤 딥",
+      "type": "1+1",
+      "amount": 71670
+    },
+    {
+      "date": "2026-02-20",
+      "platform": "네이버",
+      "customer": "김혜린",
+      "product": "마일드 앤 포어",
+      "type": "1+1",
+      "amount": 30000
+    },
+    {
+      "date": "2026-02-20",
+      "platform": "네이버",
+      "customer": "박경희",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 0
+    },
+    {
+      "date": "2026-02-20",
+      "platform": "에이블리",
+      "customer": "김나영",
+      "product": "쿨 앤 마일드",
+      "type": "단품",
+      "amount": 9178
+    },
+    {
+      "date": "2026-02-21",
+      "platform": "네이버",
+      "customer": "강진이",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 0
+    },
+    {
+      "date": "2026-02-21",
+      "platform": "네이버",
+      "customer": "최해금",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 0
+    },
+    {
+      "date": "2026-02-21",
+      "platform": "네이버",
+      "customer": "윤미숙",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 0
+    },
+    {
+      "date": "2026-02-21",
+      "platform": "네이버",
+      "customer": "최승현",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 0
+    },
+    {
+      "date": "2026-02-21",
+      "platform": "네이버",
+      "customer": "박경련",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 0
+    },
+    {
+      "date": "2026-02-21",
+      "platform": "네이버",
+      "customer": "박해양",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 0
+    },
+    {
+      "date": "2026-02-21",
+      "platform": "네이버",
+      "customer": "원선화",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 0
+    },
+    {
+      "date": "2026-02-21",
+      "platform": "네이버",
+      "customer": "주재환",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 0
+    },
+    {
+      "date": "2026-02-21",
+      "platform": "네이버",
+      "customer": "이재명",
+      "product": "쿨 앤 딥",
+      "type": "1+1",
+      "amount": 0
+    },
+    {
+      "date": "2026-02-21",
+      "platform": "네이버",
+      "customer": "이강용",
+      "product": "쿨 앤 딥",
+      "type": "1+1",
+      "amount": 0
+    },
+    {
+      "date": "2026-02-21",
+      "platform": "네이버",
+      "customer": "이미화",
+      "product": "쿨 앤 딥",
+      "type": "1+1",
+      "amount": 0
+    },
+    {
+      "date": "2026-02-21",
+      "platform": "네이버",
+      "customer": "장현희",
+      "product": "쿨 앤 딥",
+      "type": "1+1",
+      "amount": 0
+    },
+    {
+      "date": "2026-02-21",
+      "platform": "네이버",
+      "customer": "이자연",
+      "product": "쿨 앤 딥",
+      "type": "1+1",
+      "amount": 0
+    },
+    {
+      "date": "2026-02-21",
+      "platform": "네이버",
+      "customer": "송정분",
+      "product": "쿨 앤 딥",
+      "type": "1+1",
+      "amount": 0
+    },
+    {
+      "date": "2026-02-21",
+      "platform": "네이버",
+      "customer": "서민지",
+      "product": "쿨 앤 딥",
+      "type": "1+1",
+      "amount": 0
+    },
+    {
+      "date": "2026-02-21",
+      "platform": "네이버",
+      "customer": "강인숙",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 0
+    },
+    {
+      "date": "2026-02-21",
+      "platform": "네이버",
+      "customer": "김연옥",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 0
+    },
+    {
+      "date": "2026-02-21",
+      "platform": "네이버",
+      "customer": "김은아",
+      "product": "쿨 앤 딥",
+      "type": "1+1",
+      "amount": 0
+    },
+    {
+      "date": "2026-02-21",
+      "platform": "네이버",
+      "customer": "이금주",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 0
+    },
+    {
+      "date": "2026-02-22",
+      "platform": "네이버",
+      "customer": "문하영",
+      "product": "쿨 앤 딥",
+      "type": "1+1",
+      "amount": 0
+    },
+    {
+      "date": "2026-02-22",
+      "platform": "네이버",
+      "customer": "권동욱",
+      "product": "쿨 앤 딥",
+      "type": "1+1",
+      "amount": 0
+    },
+    {
+      "date": "2026-02-22",
+      "platform": "네이버",
+      "customer": "지연실",
+      "product": "쿨 앤 딥",
+      "type": "1+1",
+      "amount": 0
+    },
+    {
+      "date": "2026-02-22",
+      "platform": "네이버",
+      "customer": "홍희경",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-22",
+      "platform": "네이버",
+      "customer": "조성원",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-22",
+      "platform": "네이버",
+      "customer": "김채원",
+      "product": "쿨 앤 딥",
+      "type": "1+1",
+      "amount": 36000
+    },
+    {
+      "date": "2026-02-22",
+      "platform": "네이버",
+      "customer": "홍기필",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-22",
+      "platform": "네이버",
+      "customer": "김성은",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-23",
+      "platform": "네이버",
+      "customer": "김혜서",
+      "product": "오일세트",
+      "type": "단품",
+      "amount": 48900
+    },
+    {
+      "date": "2026-02-22",
+      "platform": "에이블리",
+      "customer": "하재훈",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 9900
+    },
+    {
+      "date": "2026-02-22",
+      "platform": "에이블리",
+      "customer": "박수지",
+      "product": "마일드 앤 포어",
+      "type": "단품",
+      "amount": 11739
+    },
+    {
+      "date": "2026-02-22",
+      "platform": "에이블리",
+      "customer": "양하은",
+      "product": "마일드 앤 포어",
+      "type": "단품",
+      "amount": 12450
+    },
+    {
+      "date": "2026-02-22",
+      "platform": "에이블리",
+      "customer": "강보민",
+      "product": "마일드 앤 포어",
+      "type": "단품",
+      "amount": 12200
+    },
+    {
+      "date": "2026-02-23",
+      "platform": "네이버",
+      "customer": "한미정",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-23",
+      "platform": "네이버",
+      "customer": "서경아",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 14900
+    },
+    {
+      "date": "2026-02-23",
+      "platform": "네이버",
+      "customer": "김민주",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-23",
+      "platform": "네이버",
+      "customer": "한선정",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8900
+    },
+    {
+      "date": "2026-02-23",
+      "platform": "네이버",
+      "customer": "송명숙",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 17500
+    },
+    {
+      "date": "2026-02-23",
+      "platform": "네이버",
+      "customer": "윤진희",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-23",
+      "platform": "에이블리",
+      "customer": "이아라",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8857
+    },
+    {
+      "date": "2026-02-23",
+      "platform": "네이버",
+      "customer": "정미경",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8900
+    },
+    {
+      "date": "2026-02-24",
+      "platform": "에이블리",
+      "customer": "진민정",
+      "product": "마일드 앤 포어",
+      "type": "단품",
+      "amount": 12825
+    },
+    {
+      "date": "2026-02-24",
+      "platform": "네이버",
+      "customer": "은현교",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8900
+    },
+    {
+      "date": "2026-02-24",
+      "platform": "네이버",
+      "customer": "엄지연",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-24",
+      "platform": "네이버",
+      "customer": "오용숙",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-24",
+      "platform": "에이블리",
+      "customer": "배지연",
+      "product": "마일드 앤 포어",
+      "type": "단품",
+      "amount": 12152
+    },
+    {
+      "date": "2026-02-24",
+      "platform": "네이버",
+      "customer": "전순애",
+      "product": "쿨 앤 마일드",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-25",
+      "platform": "에이블리",
+      "customer": "황서진",
+      "product": "쿨 앤 마일드",
+      "type": "단품",
+      "amount": 9486
+    },
+    {
+      "date": "2026-02-25",
+      "platform": "에이블리",
+      "customer": "구름",
+      "product": "마일드 앤 포어",
+      "type": "단품",
+      "amount": 12299
+    },
+    {
+      "date": "2026-02-25",
+      "platform": "에이블리",
+      "customer": "이효원",
+      "product": "쿨 앤 딥",
+      "type": "1+1",
+      "amount": 15990
+    },
+    {
+      "date": "2026-02-24",
+      "platform": "네이버",
+      "customer": "정은주",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8900
+    },
+    {
+      "date": "2026-02-25",
+      "platform": "네이버",
+      "customer": "전진숙",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8900
+    },
+    {
+      "date": "2026-02-25",
+      "platform": "네이버",
+      "customer": "이미영",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-25",
+      "platform": "네이버",
+      "customer": "이상혁",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 18000
+    },
+    {
+      "date": "2026-02-25",
+      "platform": "네이버",
+      "customer": "손건",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 14900
+    },
+    {
+      "date": "2026-02-25",
+      "platform": "네이버",
+      "customer": "윤정희",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-25",
+      "platform": "네이버",
+      "customer": "조숙희",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 23800
+    },
+    {
+      "date": "2026-02-25",
+      "platform": "네이버",
+      "customer": "박수진",
+      "product": "마일드 앤 포어",
+      "type": "1+1",
+      "amount": 60000
+    },
+    {
+      "date": "2026-02-25",
+      "platform": "네이버",
+      "customer": "박수진",
+      "product": "쿨 앤 딥",
+      "type": "1+1",
+      "amount": 54000
+    },
+    {
+      "date": "2026-02-25",
+      "platform": "네이버",
+      "customer": "박수진",
+      "product": "오일세트",
+      "type": "단품",
+      "amount": 15400
+    },
+    {
+      "date": "2026-02-25",
+      "platform": "네이버",
+      "customer": "이경림",
+      "product": "오일세트",
+      "type": "단품",
+      "amount": 14900
+    },
+    {
+      "date": "2026-02-25",
+      "platform": "네이버",
+      "customer": "허은예",
+      "product": "쿨 앤 마일드",
+      "type": "1+1",
+      "amount": 17000
+    },
+    {
+      "date": "2026-02-26",
+      "platform": "네이버",
+      "customer": "문민정",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 14900
+    },
+    {
+      "date": "2026-02-25",
+      "platform": "네이버",
+      "customer": "전지은",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-25",
+      "platform": "네이버",
+      "customer": "김주한",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 14900
+    },
+    {
+      "date": "2026-02-26",
+      "platform": "네이버",
+      "customer": "김혜연",
+      "product": "쿨 앤 마일드",
+      "type": "1+1",
+      "amount": 53700
+    },
+    {
+      "date": "2026-02-26",
+      "platform": "네이버",
+      "customer": "김혜연",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 17890
+    },
+    {
+      "date": "2026-02-26",
+      "platform": "네이버",
+      "customer": "김혜연",
+      "product": "오일세트",
+      "type": "단품",
+      "amount": 15310
+    },
+    {
+      "date": "2026-02-26",
+      "platform": "네이버",
+      "customer": "유혜선",
+      "product": "쿨 앤 마일드",
+      "type": "단품",
+      "amount": 8860
+    },
+    {
+      "date": "2026-02-26",
+      "platform": "네이버",
+      "customer": "유혜선",
+      "product": "오일세트",
+      "type": "단품",
+      "amount": 110980
+    },
+    {
+      "date": "2026-02-26",
+      "platform": "네이버",
+      "customer": "임현재",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8900
+    },
+    {
+      "date": "2026-02-26",
+      "platform": "네이버",
+      "customer": "조남숙",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-26",
+      "platform": "네이버",
+      "customer": "주영화",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-26",
+      "platform": "네이버",
+      "customer": "명경순",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 14900
+    },
+    {
+      "date": "2026-02-26",
+      "platform": "네이버",
+      "customer": "서현지",
+      "product": "쿨 앤 딥",
+      "type": "1+1",
+      "amount": 23800
+    },
+    {
+      "date": "2026-02-26",
+      "platform": "네이버",
+      "customer": "박수진",
+      "product": "마일드 앤 포어",
+      "type": "1+1",
+      "amount": 30000
+    },
+    {
+      "date": "2026-02-27",
+      "platform": "네이버",
+      "customer": "손미영",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8900
+    },
+    {
+      "date": "2026-02-27",
+      "platform": "네이버",
+      "customer": "어윤기",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-27",
+      "platform": "네이버",
+      "customer": "이유정",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-02-27",
+      "platform": "네이버",
+      "customer": "김현석",
+      "product": "쿨 앤 딥",
+      "type": "1+1",
+      "amount": 18000
+    },
+    {
+      "date": "2026-02-27",
+      "platform": "에이블리",
+      "customer": "신경은",
+      "product": "마일드 앤 포어",
+      "type": "단품",
+      "amount": 11607
+    },
+    {
+      "date": "2026-02-27",
+      "platform": "에이블리",
+      "customer": "모다은",
+      "product": "마일드 앤 포어",
+      "type": "단품",
+      "amount": 12807
+    },
+    {
+      "date": "2026-02-27",
+      "platform": "네이버",
+      "customer": "한미영",
+      "product": "쿨 앤 딥",
+      "type": "단품",
+      "amount": 8400
+    },
+    {
+      "date": "2026-01-31",
+      "platform": "네이버",
+      "customer": "김하정",
+      "product": "1085260863.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-31",
+      "platform": "네이버",
+      "customer": "이상현",
+      "product": "1044081580.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-31",
+      "platform": "네이버",
+      "customer": "강다연",
+      "product": "1073750508.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-31",
+      "platform": "네이버",
+      "customer": "박은순",
+      "product": "1065569554.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-31",
+      "platform": "네이버",
+      "customer": "신지희",
+      "product": "1056795629.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-30",
+      "platform": "네이버",
+      "customer": "홍기태",
+      "product": "1051255145.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-30",
+      "platform": "네이버",
+      "customer": "박관순",
+      "product": "50228130910.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-02-01",
+      "platform": "지그재그",
+      "customer": "허선주",
+      "product": "1058052375.0",
+      "type": "마일드 앤 포어",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-31",
+      "platform": "지그재그",
+      "customer": "유혜선",
+      "product": "1027257654.0",
+      "type": "쿨 앤 딥, 마일드 앤 포어",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-30",
+      "platform": "네이버",
+      "customer": "백현숙",
+      "product": "1047159256.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-30",
+      "platform": "네이버",
+      "customer": "신지윤",
+      "product": "1090115284.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-30",
+      "platform": "네이버",
+      "customer": "육정미",
+      "product": "1098702328.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-30",
+      "platform": "네이버",
+      "customer": "상태숙",
+      "product": "1097615903.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-30",
+      "platform": "네이버",
+      "customer": "유지원",
+      "product": "50226967574.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-29",
+      "platform": "네이버",
+      "customer": "홍주희",
+      "product": "1068243301.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-29",
+      "platform": "네이버",
+      "customer": "전진배",
+      "product": "010-9811-2422",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-29",
+      "platform": "네이버",
+      "customer": "장진한",
+      "product": "010-3697-0103",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-29",
+      "platform": "네이버",
+      "customer": "박준호",
+      "product": "010-5522-9077",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-29",
+      "platform": "네이버",
+      "customer": "박영임",
+      "product": "010-7678-3659",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-29",
+      "platform": "에이블리",
+      "customer": "은우,지현",
+      "product": "010-5540-6375",
+      "type": "마일드 앤 포어",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-29",
+      "platform": "네이버",
+      "customer": "김진옥",
+      "product": "1052835997.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-29",
+      "platform": "네이버",
+      "customer": "김문자",
+      "product": "1099017714.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-29",
+      "platform": "네이버",
+      "customer": "박지예",
+      "product": "1051966211.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-29",
+      "platform": "네이버",
+      "customer": "곽은지",
+      "product": "1093690998.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-28",
+      "platform": "네이버",
+      "customer": "황수영",
+      "product": "1033321190.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-28",
+      "platform": "네이버",
+      "customer": "김정순",
+      "product": "1051426070.0",
+      "type": "쿨 앤 마일드",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-28",
+      "platform": "네이버",
+      "customer": "조월이",
+      "product": "1089032847.0",
+      "type": "쿨 앤 마일드",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-29",
+      "platform": "지그재그",
+      "customer": "이서윤",
+      "product": "1056616376.0",
+      "type": "쿨 앤 딥, 쿨 앤 마일드",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-28",
+      "platform": "지마켓",
+      "customer": "선청래",
+      "product": "1028980880.0",
+      "type": "쿨 앤 마일드",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-28",
+      "platform": "토스쇼핑",
+      "customer": "문종우",
+      "product": "50877233205.0",
+      "type": "마일드 앤 포어",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-28",
+      "platform": "네이버",
+      "customer": "이은하",
+      "product": "1028649555.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-28",
+      "platform": "네이버",
+      "customer": "김지연",
+      "product": "1063597245.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-28",
+      "platform": "네이버",
+      "customer": "옥재진",
+      "product": "1090310842.0",
+      "type": "쿨 앤 마일드",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-27",
+      "platform": "네이버",
+      "customer": "김경미",
+      "product": "50228828454.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-27",
+      "platform": "네이버",
+      "customer": "홍기문",
+      "product": "1082506902.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-27",
+      "platform": "네이버",
+      "customer": "신민경",
+      "product": "1039005841.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-27",
+      "platform": "네이버",
+      "customer": "이지연",
+      "product": "1020205350.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-27",
+      "platform": "에이블리",
+      "customer": "정아",
+      "product": "1031456627.0",
+      "type": "마일드 앤 포어",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-26",
+      "platform": "에이블리",
+      "customer": "이수연",
+      "product": "1082032566.0",
+      "type": "마일드 앤 포어",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-26",
+      "platform": "지그재그",
+      "customer": "박지안",
+      "product": "1023679887.0",
+      "type": "마일드 앤 포어",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-26",
+      "platform": "네이버",
+      "customer": "김형진",
+      "product": "1030971730.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-26",
+      "platform": "네이버",
+      "customer": "최문정",
+      "product": "50228679183.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-25",
+      "platform": "네이버",
+      "customer": "박기원",
+      "product": "1035428000.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-25",
+      "platform": "네이버",
+      "customer": "정우석",
+      "product": "1091060622.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-24",
+      "platform": "네이버",
+      "customer": "김성현",
+      "product": "1094030089.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-24",
+      "platform": "네이버",
+      "customer": "박성주",
+      "product": "1094786913.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-24",
+      "platform": "네이버",
+      "customer": "최세영",
+      "product": "1024846153.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-24",
+      "platform": "네이버",
+      "customer": "김은선",
+      "product": "1045375826.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-24",
+      "platform": "네이버",
+      "customer": "송진호",
+      "product": "1089249860.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-23",
+      "platform": "네이버",
+      "customer": "박세나",
+      "product": "1026079962.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-24",
+      "platform": "에이블리",
+      "customer": "유수현",
+      "product": "1062577832.0",
+      "type": "마일드 앤 포어",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-23",
+      "platform": "에이블리",
+      "customer": "이스디아나",
+      "product": "10-5104-0712",
+      "type": "쿨 앤 마일드",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-22",
+      "platform": "네이버",
+      "customer": "박지환",
+      "product": "10-4456-2807",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-23",
+      "platform": "지그재그",
+      "customer": "박수진",
+      "product": "10-4491-3567",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-23",
+      "platform": "지그재그",
+      "customer": "허은예",
+      "product": "10-4491-3567",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-22",
+      "platform": "지그재그",
+      "customer": "소아영",
+      "product": "10-8964-2221",
+      "type": "쿨 앤 마일드",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-22",
+      "platform": "네이버",
+      "customer": "김온유",
+      "product": "10-5721-3067",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-21",
+      "platform": "네이버",
+      "customer": "임나영",
+      "product": "1090347860.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-21",
+      "platform": "네이버",
+      "customer": "김혜지",
+      "product": "1056924278.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-21",
+      "platform": "네이버",
+      "customer": "윤유정",
+      "product": "1071047178.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-21",
+      "platform": "네이버",
+      "customer": "임예지",
+      "product": "50228272808.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-21",
+      "platform": "네이버",
+      "customer": "이화정",
+      "product": "1092218334.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-21",
+      "platform": "네이버",
+      "customer": "CHOEERICAGRACE",
+      "product": "1087071186.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-20",
+      "platform": "네이버",
+      "customer": "유명열",
+      "product": "1062167850.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-20",
+      "platform": "네이버",
+      "customer": "JIN XINGHUI",
+      "product": "1084017118.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-19",
+      "platform": "네이버",
+      "customer": "김대윤",
+      "product": "1031001300.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-19",
+      "platform": "네이버",
+      "customer": "김정원",
+      "product": "10-2023-4085",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-18",
+      "platform": "네이버",
+      "customer": "이선규",
+      "product": "1090834716.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-18",
+      "platform": "네이버",
+      "customer": "주미경",
+      "product": "1026364815.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-17",
+      "platform": "네이버",
+      "customer": "황정희",
+      "product": "1057528067.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-19",
+      "platform": "지그재그",
+      "customer": "이화정",
+      "product": "1062116530.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-19",
+      "platform": "지그재그",
+      "customer": "김형은",
+      "product": "1073640515.0",
+      "type": "쿨 앤 마일드",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-19",
+      "platform": "지그재그",
+      "customer": "이은정",
+      "product": "1080190238.0",
+      "type": "마일드 앤 포어",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-19",
+      "platform": "에이블리",
+      "customer": "김유경",
+      "product": "1063538132.0",
+      "type": "마일드 앤 포어",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-19",
+      "platform": "에이블리",
+      "customer": "이가영",
+      "product": "1051165993.0",
+      "type": "마일드 앤 포어",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-15",
+      "platform": "네이버",
+      "customer": "윤보명",
+      "product": "1073759822.0",
+      "type": "쿨 앤 마일드",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-15",
+      "platform": "네이버",
+      "customer": "정철안",
+      "product": "1079194315.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-14",
+      "platform": "네이버",
+      "customer": "윤지호",
+      "product": "1086610207.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-14",
+      "platform": "에이블리",
+      "customer": "김혜정",
+      "product": "1026432039.0",
+      "type": "마일드 앤 포어",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-14",
+      "platform": "네이버",
+      "customer": "김도연",
+      "product": "1085742250.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-14",
+      "platform": "네이버",
+      "customer": "이지아",
+      "product": "1034224582.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-14",
+      "platform": "네이버",
+      "customer": "전희수",
+      "product": "1050161114.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-14",
+      "platform": "네이버",
+      "customer": "박도화",
+      "product": "1024123960.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-14",
+      "platform": "네이버",
+      "customer": "오예린",
+      "product": "1027297591.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-14",
+      "platform": "네이버",
+      "customer": "공주",
+      "product": "1043221411.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-14",
+      "platform": "네이버",
+      "customer": "권도희",
+      "product": "1067911256.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-14",
+      "platform": "네이버",
+      "customer": "양지은",
+      "product": "1024142747.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-14",
+      "platform": "네이버",
+      "customer": "김혜인",
+      "product": "1064089167.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-14",
+      "platform": "지그재그",
+      "customer": "홍은",
+      "product": "1089345370.0",
+      "type": "마일드 앤 포어",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-13",
+      "platform": "네이버",
+      "customer": "이혜영",
+      "product": "1044941661.0",
+      "type": "마일드 앤 포어",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-13",
+      "platform": "샘플출고",
+      "customer": "김혜진",
+      "product": "1034211104.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-13",
+      "platform": "샘플출고",
+      "customer": "김윤아",
+      "product": "1035228610.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-13",
+      "platform": "샘플출고",
+      "customer": "박이랑",
+      "product": "1032943169.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-13",
+      "platform": "네이버",
+      "customer": "이승희",
+      "product": "1071916761.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-13",
+      "platform": "오늘의 집",
+      "customer": "김원령",
+      "product": "1065765448.0",
+      "type": "쿨 앤 마일드",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-12",
+      "platform": "네이버",
+      "customer": "김용식",
+      "product": "50226643927.0",
+      "type": "마일드 앤 포어",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-12",
+      "platform": "네이버",
+      "customer": "김경이",
+      "product": "1041997451.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-12",
+      "platform": "네이버",
+      "customer": "최연경",
+      "product": "1066263661.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-12",
+      "platform": "네이버",
+      "customer": "김현겸",
+      "product": "1090241426.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-12",
+      "platform": "네이버",
+      "customer": "김기환",
+      "product": "1072798840.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-12",
+      "platform": "샘플출고",
+      "customer": "신윤정",
+      "product": "1082349775.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-12",
+      "platform": "지그재그",
+      "customer": "김나연",
+      "product": "1040463232.0",
+      "type": "쿨 앤 마일드",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-12",
+      "platform": "네이버",
+      "customer": "이건옥",
+      "product": "1055901259.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-11",
+      "platform": "네이버",
+      "customer": "이아랑",
+      "product": "1051917418.0",
+      "type": "쿨 앤 마일드",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-11",
+      "platform": "네이버",
+      "customer": "김나리",
+      "product": "1023670905.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-11",
+      "platform": "네이버",
+      "customer": "김경민",
+      "product": "1048491712.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-10",
+      "platform": "네이버",
+      "customer": "김다민",
+      "product": "1026843988.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-10",
+      "platform": "네이버",
+      "customer": "이현임",
+      "product": "1041647804.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-10",
+      "platform": "네이버",
+      "customer": "박상현",
+      "product": "1046284480.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-10",
+      "platform": "네이버",
+      "customer": "김도연",
+      "product": "1034069908.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-09",
+      "platform": "쿠팡 로켓그로스(동탄물류센터)",
+      "customer": "쿠팡 인천 14",
+      "product": "7078244180.0",
+      "type": "아원 순앤딥 클렌징 오일",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-09",
+      "platform": "네이버",
+      "customer": "이서윤",
+      "product": "1092884359.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-09",
+      "platform": "네이버",
+      "customer": "성주형",
+      "product": "1038999485.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-09",
+      "platform": "네이버",
+      "customer": "서정승",
+      "product": "1053826974.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-09",
+      "platform": "네이버",
+      "customer": "김지은",
+      "product": "1063064010.0",
+      "type": "마일드 앤 포어",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-08",
+      "platform": "네이버",
+      "customer": "엄정무",
+      "product": "50227257157.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-08",
+      "platform": "자사몰",
+      "customer": "임보리",
+      "product": "1087866529.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-08",
+      "platform": "네이버",
+      "customer": "김지용",
+      "product": "1077385495.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-08",
+      "platform": "네이버",
+      "customer": "이현숙",
+      "product": "1062716825.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-07",
+      "platform": "네이버",
+      "customer": "조재훈",
+      "product": "1097898480.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-07",
+      "platform": "네이버",
+      "customer": "유지영",
+      "product": "1031633139.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-07",
+      "platform": "네이버",
+      "customer": "최노아",
+      "product": "1027992139.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-07",
+      "platform": "네이버",
+      "customer": "권혜미",
+      "product": "50227131422.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-07",
+      "platform": "네이버",
+      "customer": "홍은신",
+      "product": "50227129420.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-07",
+      "platform": "네이버",
+      "customer": "이현영",
+      "product": "50228925715.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-07",
+      "platform": "네이버",
+      "customer": "권유림",
+      "product": "1086507917.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-07",
+      "platform": "에이블리",
+      "customer": "박수진",
+      "product": "1044913567.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-07",
+      "platform": "네이버",
+      "customer": "임정섭",
+      "product": "1062393568.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-07",
+      "platform": "네이버",
+      "customer": "김유경",
+      "product": "50227111429.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-07",
+      "platform": "네이버",
+      "customer": "유아람",
+      "product": "1099290648.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-07",
+      "platform": "네이버",
+      "customer": "장현주",
+      "product": "1094013886.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-07",
+      "platform": "네이버",
+      "customer": "유지효",
+      "product": "1066299788.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-07",
+      "platform": "네이버",
+      "customer": "이지화",
+      "product": "1032308161.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-07",
+      "platform": "네이버",
+      "customer": "최소리",
+      "product": "1091009199.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-07",
+      "platform": "네이버",
+      "customer": "이성실",
+      "product": "1039324401.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-07",
+      "platform": "네이버",
+      "customer": "서상기",
+      "product": "1094456954.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-07",
+      "platform": "네이버",
+      "customer": "최윤나",
+      "product": "1064706992.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-06",
+      "platform": "네이버",
+      "customer": "강동규",
+      "product": "1038131761.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-05",
+      "platform": "자사몰",
+      "customer": "허가은",
+      "product": "1051174884.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-06",
+      "platform": "자사몰",
+      "customer": "우은주",
+      "product": "1064765651.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-03",
+      "platform": "자사몰",
+      "customer": "한미진",
+      "product": "1056921106.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-05",
+      "platform": "네이버",
+      "customer": "전성훈",
+      "product": "1028424719.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-05",
+      "platform": "쿠팡 로켓그로스(동탄물류센터)",
+      "customer": "쿠팡 로켓그로스(인천 14)",
+      "product": "7078244180.0",
+      "type": "아원 pH 밸런싱 클렌징 폼",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-05",
+      "platform": "네이버",
+      "customer": "윤주희",
+      "product": "1036014945.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-05",
+      "platform": "네이버",
+      "customer": "정명훈",
+      "product": "50227883409.0",
+      "type": "쿨 앤 마일드",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-04",
+      "platform": "네이버",
+      "customer": "이연숙",
+      "product": "1035079655.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-04",
+      "platform": "네이버",
+      "customer": "김남윤",
+      "product": "1033122152.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-04",
+      "platform": "자사몰",
+      "customer": "김은영",
+      "product": "1030070185.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-04",
+      "platform": "네이버",
+      "customer": "김인애",
+      "product": "1032893457.0",
+      "type": "마일드 앤 포어",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-03",
+      "platform": "네이버",
+      "customer": "황민정",
+      "product": "1084861120.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-03",
+      "platform": "네이버",
+      "customer": "손광성",
+      "product": "1067472388.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-03",
+      "platform": "네이버",
+      "customer": "김동진",
+      "product": "1039121166.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-03",
+      "platform": "네이버",
+      "customer": "곽재은",
+      "product": "1087234655.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-03",
+      "platform": "네이버",
+      "customer": "함상훈",
+      "product": "1043890888.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-02",
+      "platform": "네이버",
+      "customer": "홍유진",
+      "product": "1043025058.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-02",
+      "platform": "네이버",
+      "customer": "장영희",
+      "product": "1043641015.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-02",
+      "platform": "자사몰",
+      "customer": "박다솜",
+      "product": "1053600829.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2025-12-31",
+      "platform": "자사몰",
+      "customer": "정지선",
+      "product": "1021482148.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2025-12-31",
+      "platform": "자사몰",
+      "customer": "김순녀",
+      "product": "1056267515.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-02",
+      "platform": "자사몰",
+      "customer": "오희진",
+      "product": "1084324087.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-01",
+      "platform": "자사몰",
+      "customer": "한승희",
+      "product": "1040177025.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-01",
+      "platform": "자사몰",
+      "customer": "이예진",
+      "product": "1071249069.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-02",
+      "platform": "자사몰",
+      "customer": "윤수민",
+      "product": "1028247299.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-02",
+      "platform": "네이버",
+      "customer": "박금희",
+      "product": "1067515957.0",
+      "type": "마일드 앤 포어",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-02",
+      "platform": "네이버",
+      "customer": "박현화",
+      "product": "50227631377.0",
+      "type": "마일드 앤 포어",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-01",
+      "platform": "네이버",
+      "customer": "이시은",
+      "product": "1085665223.0",
+      "type": "쿨 앤 마일드",
+      "amount": 0
+    },
+    {
+      "date": "2026-01-01",
+      "platform": "에이블리",
+      "customer": "가나다",
+      "product": "1099230286.0",
+      "type": "쿨 앤 딥",
+      "amount": 0
+    }
+  ],
+  "2026-03": {
+    "네이버": {
+      "1": 75400,
+      "2": 142500,
+      "3": 45400,
+      "4": 33600,
+      "5": 62700,
+      "6": 17300,
+      "7": 40100,
+      "8": 43000,
+      "9": 43200,
+      "10": 104700,
+      "11": 95600,
+      "12": 85400,
+      "13": 73300,
+      "14": 16800,
+      "15": 92400,
+      "16": 930220,
+      "17": 268400,
+      "18": 88500,
+      "19": 123400,
+      "20": 42700,
+      "21": 34800,
+      "22": 416820,
+      "23": 160400,
+      "24": 504600,
+      "25": 216400,
+      "26": 113300,
+      "27": 59000,
+      "28": 55500,
+      "29": 18000,
+      "30": 53300,
+      "31": 57600
+    },
+    "화해": {
+      "1": 14348,
+      "9": 25412,
+      "19": 12566,
+      "23": 11430
+    },
+    "쿠팡(큐리즌 외)": {
+      "1": 52500,
+      "2": 72300,
+      "3": 46710,
+      "4": 61300,
+      "6": 38600,
+      "7": 15800,
+      "8": 31700,
+      "9": 55400,
+      "10": 4000,
+      "11": 66200,
+      "12": 55500,
+      "13": 41600,
+      "14": 7900,
+      "15": 38700,
+      "16": 55600,
+      "17": 20900,
+      "18": 39700,
+      "19": 37700,
+      "20": 51500,
+      "21": 48700,
+      "22": 76400,
+      "23": 28600,
+      "24": 9900,
+      "25": 7900,
+      "26": 76300,
+      "27": 58500,
+      "28": 45500,
+      "29": 53600,
+      "30": 29700,
+      "31": 36600
+    },
+    "쿠팡": {
+      "2": 18010,
+      "3": 27910,
+      "6": 37810,
+      "7": 19810,
+      "10": 18010,
+      "13": 37810,
+      "16": 9910,
+      "21": 9910,
+      "23": 9910,
+      "24": 9910,
+      "26": 18010,
+      "27": 23820,
+      "28": 9910,
+      "30": 18010,
+      "31": 9910
+    },
+    "에이블리": {
+      "3": 28243,
+      "5": 29800,
+      "6": 21840,
+      "7": 27420,
+      "8": 21147,
+      "9": 33402,
+      "11": 12255,
+      "12": 21565,
+      "13": 12084,
+      "16": 21769,
+      "17": 34383,
+      "18": 18181,
+      "21": 12074,
+      "23": 21573,
+      "24": 14400,
+      "27": 12800,
+      "30": 7350
+    },
+    "톡스토어": {
+      "4": 15000,
+      "5": 54000,
+      "6": 18000,
+      "12": 11900
+    },
+    "지그재그": {
+      "8": 19020,
+      "22": 9510,
+      "26": 9510
+    },
+    "카페24": {
+      "10": 14900
+    },
+    "쇼피": {
+      "12": 24000
+    },
+    "G마켓": {
+      "25": 8820
+    }
+  },
+  "2025-02": {
+    "네이버": {
+      "1": 125700,
+      "2": 112900,
+      "3": 124300,
+      "4": 71500,
+      "5": 87700,
+      "6": 59500,
+      "7": 71200,
+      "8": 82300,
+      "9": 136500,
+      "10": 41700,
+      "11": 73600,
+      "12": 72500,
+      "13": 104600,
+      "14": 185100,
+      "15": 48500,
+      "16": 96300,
+      "17": 102400,
+      "18": 91700,
+      "19": 67700,
+      "20": 639600,
+      "21": 370000,
+      "22": 131500,
+      "23": 124300,
+      "24": 43000,
+      "25": 344800,
+      "26": 324900,
+      "27": 92700,
+      "28": 99800
+    },
+    "지그재그": {
+      "1": 13900,
+      "3": 9900,
+      "4": 9900,
+      "5": 12720,
+      "6": 9510,
+      "7": 9510,
+      "10": 12390
+    },
+    "쿠팡(큐리즌 외)": {
+      "1": 34600,
+      "2": 19800,
+      "3": 61400,
+      "4": 9800,
+      "5": 107100,
+      "6": 9900,
+      "7": 27700,
+      "8": 17800,
+      "9": 89300,
+      "10": 42500,
+      "11": 49500,
+      "12": 42600,
+      "13": 57300,
+      "15": 55300,
+      "16": 10900,
+      "17": 23700,
+      "18": 12900,
+      "19": 15800,
+      "20": 28700,
+      "21": 7900,
+      "22": 93100,
+      "23": 28700,
+      "24": 23700,
+      "25": 25700,
+      "26": 36600,
+      "27": 19800,
+      "28": 36600
+    },
+    "에이블리": {
+      "3": 13478,
+      "4": 34620,
+      "5": 21064,
+      "7": 22850,
+      "8": 11635,
+      "9": 12373,
+      "10": 29369,
+      "13": 23489,
+      "14": 9060,
+      "18": 23917,
+      "20": 9178,
+      "22": 46289,
+      "24": 24977,
+      "25": 37775,
+      "27": 24414
+    },
+    "쿠팡": {
+      "3": 18010,
+      "4": 33710,
+      "5": 18010,
+      "6": 9900,
+      "7": 31910,
+      "9": 39900,
+      "10": 37700,
+      "11": 19800,
+      "13": 27910,
+      "16": 18010,
+      "17": 9910,
+      "21": 9900,
+      "24": 9900,
+      "27": 35800,
+      "28": 18010
+    },
+    "쇼피": {
+      "18": 51200
+    },
+    "G마켓": {
+      "19": 10710
+    }
+  },
+  "2026-01": {
+    "네이버": {
+      "1": 8400,
+      "2": 37900,
+      "3": 49500,
+      "4": 27100,
+      "5": 34800,
+      "6": 8400,
+      "7": 142800,
+      "8": 50900,
+      "9": 33800,
+      "10": 40100,
+      "11": 33800,
+      "12": 78600,
+      "13": 38500,
+      "14": 84000,
+      "15": 23300,
+      "17": 16800,
+      "18": 8400,
+      "19": 31700,
+      "20": 23800,
+      "21": 50400,
+      "22": 16800,
+      "23": 14900,
+      "24": 42000,
+      "25": 23300,
+      "26": 38200,
+      "27": 40100,
+      "28": 65300,
+      "29": 123000,
+      "30": 82800,
+      "31": 50600
+    },
+    "카페24": {
+      "1": 15800,
+      "2": 23700,
+      "3": 7900,
+      "4": 7900,
+      "5": 7900,
+      "6": 7900,
+      "8": 7900
+    },
+    "에이블리": {
+      "1": 16000,
+      "7": 32000,
+      "14": 9900,
+      "19": 47528,
+      "23": 9582,
+      "24": 11903,
+      "26": 12600,
+      "27": 16110,
+      "29": 16111
+    },
+    "쿠팡(큐리즌 외)": {
+      "1": 35500,
+      "2": 9900,
+      "3": 88400,
+      "4": 28600,
+      "5": 55100,
+      "6": 56400,
+      "7": 52500,
+      "8": 10900,
+      "9": 25700,
+      "10": 28700,
+      "11": 36700,
+      "12": 10900,
+      "13": 62500,
+      "15": 39600,
+      "16": 64400,
+      "18": 35600,
+      "19": 15800,
+      "20": 23700,
+      "21": 10900,
+      "23": 47400,
+      "24": 43600,
+      "25": 10900,
+      "26": 86500,
+      "27": 28700,
+      "28": 7800,
+      "30": 48500,
+      "31": 70000
+    },
+    "지그재그": {
+      "11": 10430,
+      "13": 13510,
+      "17": 36720,
+      "22": 9520,
+      "23": 28560,
+      "26": 12900,
+      "29": 29540,
+      "31": 35700
+    },
+    "오늘의집": {
+      "13": 29800
+    },
+    "쿠팡": {
+      "21": 38700,
+      "24": 18010,
+      "26": 9900,
+      "28": 18010,
+      "29": 13900,
+      "31": 18010
+    },
+    "토스쇼핑": {
+      "28": 13900
+    },
+    "G마켓": {
+      "28": 10410
+    }
+  },
+  "2026-02": {
+    "네이버": {
+      "1": 125700,
+      "2": 112900,
+      "3": 124300,
+      "4": 71500,
+      "5": 87700,
+      "6": 59500,
+      "7": 71200,
+      "8": 82300,
+      "9": 136500,
+      "10": 41700,
+      "11": 73600,
+      "12": 72500,
+      "13": 104600,
+      "14": 185100,
+      "15": 48500,
+      "16": 96300,
+      "17": 102400,
+      "18": 91700,
+      "19": 67700,
+      "20": 639600,
+      "21": 370000,
+      "22": 131500,
+      "23": 124300,
+      "24": 43000,
+      "25": 344800,
+      "26": 324900,
+      "27": 92700,
+      "28": 99800
+    },
+    "지그재그": {
+      "1": 13900,
+      "3": 9900,
+      "4": 9900,
+      "5": 12720,
+      "6": 9510,
+      "7": 9510,
+      "10": 12390
+    },
+    "쿠팡(큐리즌 외)": {
+      "1": 34600,
+      "2": 19800,
+      "3": 61400,
+      "4": 9800,
+      "5": 107100,
+      "6": 9900,
+      "7": 27700,
+      "8": 17800,
+      "9": 89300,
+      "10": 42500,
+      "11": 49500,
+      "12": 42600,
+      "13": 57300,
+      "15": 55300,
+      "16": 10900,
+      "17": 23700,
+      "18": 12900,
+      "19": 15800,
+      "20": 28700,
+      "21": 7900,
+      "22": 93100,
+      "23": 28700,
+      "24": 23700,
+      "25": 25700,
+      "26": 36600,
+      "27": 19800,
+      "28": 36600
+    },
+    "에이블리": {
+      "3": 13478,
+      "4": 34620,
+      "5": 21064,
+      "7": 22850,
+      "8": 11635,
+      "9": 12373,
+      "10": 29369,
+      "13": 23489,
+      "14": 9060,
+      "18": 23917,
+      "20": 9178,
+      "22": 46289,
+      "24": 24977,
+      "25": 37775,
+      "27": 24414
+    },
+    "쿠팡": {
+      "3": 18010,
+      "4": 33710,
+      "5": 18010,
+      "6": 9900,
+      "7": 31910,
+      "9": 39900,
+      "10": 37700,
+      "11": 19800,
+      "13": 27910,
+      "16": 18010,
+      "17": 9910,
+      "21": 9900,
+      "24": 9900,
+      "27": 35800,
+      "28": 18010
+    },
+    "쇼피": {
+      "18": 51200
+    },
+    "G마켓": {
+      "19": 10710
+    }
+  }
+}
